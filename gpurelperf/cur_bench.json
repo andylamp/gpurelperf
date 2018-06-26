@@ -1,0 +1,692 @@
+{
+  "devices": [
+    {
+      "name": "GeForce GTX 1080 Ti",
+      "description": "",
+      "compute_api": 1,
+      "samples": 692,
+      "score": 236185,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1080",
+      "description": "",
+      "compute_api": 1,
+      "samples": 638,
+      "score": 207575,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1070",
+      "description": "",
+      "compute_api": 1,
+      "samples": 505,
+      "score": 181255,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 980 Ti",
+      "description": "",
+      "compute_api": 1,
+      "samples": 399,
+      "score": 150960,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1060 6GB",
+      "description": "",
+      "compute_api": 1,
+      "samples": 279,
+      "score": 138051,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 970",
+      "description": "",
+      "compute_api": 1,
+      "samples": 259,
+      "score": 104570,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 980",
+      "description": "",
+      "compute_api": 1,
+      "samples": 195,
+      "score": 120929,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 960",
+      "description": "",
+      "compute_api": 1,
+      "samples": 190,
+      "score": 75116,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX TITAN X",
+      "description": "",
+      "compute_api": 1,
+      "samples": 154,
+      "score": 144565,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GPU",
+      "description": "",
+      "compute_api": 1,
+      "samples": 147,
+      "score": 43311,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1050 Ti",
+      "description": "",
+      "compute_api": 1,
+      "samples": 118,
+      "score": 91937,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1050",
+      "description": "",
+      "compute_api": 1,
+      "samples": 117,
+      "score": 79339,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 680",
+      "description": "",
+      "compute_api": 1,
+      "samples": 112,
+      "score": 75569,
+      "multicore_score": 0
+    },
+    {
+      "name": "TITAN X (Pascal)",
+      "description": "",
+      "compute_api": 1,
+      "samples": 103,
+      "score": 239408,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GT 750M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 88,
+      "score": 14163,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 950",
+      "description": "",
+      "compute_api": 1,
+      "samples": 80,
+      "score": 73900,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 760",
+      "description": "",
+      "compute_api": 1,
+      "samples": 75,
+      "score": 62672,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GT 1030",
+      "description": "",
+      "compute_api": 1,
+      "samples": 65,
+      "score": 48601,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 960M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 63,
+      "score": 55026,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 750 Ti",
+      "description": "",
+      "compute_api": 1,
+      "samples": 54,
+      "score": 59610,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1060",
+      "description": "",
+      "compute_api": 1,
+      "samples": 51,
+      "score": 132004,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1060 3GB",
+      "description": "",
+      "compute_api": 1,
+      "samples": 50,
+      "score": 134149,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro M4000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 47,
+      "score": 69523,
+      "multicore_score": 0
+    },
+    {
+      "name": "TITAN Xp",
+      "description": "",
+      "compute_api": 1,
+      "samples": 47,
+      "score": 243642,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GT 650M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 43,
+      "score": 16558,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 780",
+      "description": "",
+      "compute_api": 1,
+      "samples": 42,
+      "score": 100894,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce 940MX",
+      "description": "",
+      "compute_api": 1,
+      "samples": 36,
+      "score": 28134,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 660",
+      "description": "",
+      "compute_api": 1,
+      "samples": 31,
+      "score": 51111,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro P1000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 30,
+      "score": 71145,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 770",
+      "description": "",
+      "compute_api": 1,
+      "samples": 28,
+      "score": 82114,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 670",
+      "description": "",
+      "compute_api": 1,
+      "samples": 26,
+      "score": 69869,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX TITAN",
+      "description": "",
+      "compute_api": 1,
+      "samples": 26,
+      "score": 101255,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 780 Ti",
+      "description": "",
+      "compute_api": 1,
+      "samples": 26,
+      "score": 120933,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1070 Ti",
+      "description": "",
+      "compute_api": 1,
+      "samples": 20,
+      "score": 193237,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 980M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 18,
+      "score": 89851,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 650 Ti",
+      "description": "",
+      "compute_api": 1,
+      "samples": 18,
+      "score": 38400,
+      "multicore_score": 0
+    },
+    {
+      "name": "NVIDIA Tegra K1",
+      "description": "",
+      "compute_api": 1,
+      "samples": 18,
+      "score": 7997,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GT 520",
+      "description": "",
+      "compute_api": 1,
+      "samples": 16,
+      "score": 5846,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX TITAN Black",
+      "description": "",
+      "compute_api": 1,
+      "samples": 16,
+      "score": 109015,
+      "multicore_score": 0
+    },
+    {
+      "name": "Tesla P100-PCIE-16GB",
+      "description": "",
+      "compute_api": 1,
+      "samples": 15,
+      "score": 319329,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro 600",
+      "description": "",
+      "compute_api": 1,
+      "samples": 14,
+      "score": 9559,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 965M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 14,
+      "score": 60437,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GT 610",
+      "description": "",
+      "compute_api": 1,
+      "samples": 14,
+      "score": 5492,
+      "multicore_score": 0
+    },
+    {
+      "name": "TITAN V",
+      "description": "",
+      "compute_api": 1,
+      "samples": 14,
+      "score": 549493,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GT 730",
+      "description": "",
+      "compute_api": 1,
+      "samples": 13,
+      "score": 13559,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 660 Ti",
+      "description": "",
+      "compute_api": 1,
+      "samples": 13,
+      "score": 65008,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 970M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 13,
+      "score": 73278,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 780M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 13,
+      "score": 53314,
+      "multicore_score": 0
+    },
+    {
+      "name": "Graphics Device",
+      "description": "",
+      "compute_api": 1,
+      "samples": 13,
+      "score": 258727,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro K5000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 11,
+      "score": 50154,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro P5000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 11,
+      "score": 176157,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro P4000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 11,
+      "score": 158874,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 750",
+      "description": "",
+      "compute_api": 1,
+      "samples": 10,
+      "score": 48579,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 950M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 10,
+      "score": 43231,
+      "multicore_score": 0
+    },
+    {
+      "name": "Tesla V100-PCIE-16GB",
+      "description": "",
+      "compute_api": 1,
+      "samples": 10,
+      "score": 569304,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce MX150",
+      "description": "",
+      "compute_api": 1,
+      "samples": 10,
+      "score": 46743,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro K3100M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 10,
+      "score": 28713,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro 5000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 9,
+      "score": 34909,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro 4000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 9,
+      "score": 25818,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro M2000M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 9,
+      "score": 48786,
+      "multicore_score": 0
+    },
+    {
+      "name": "Tesla V100-SXM2-16GB",
+      "description": "",
+      "compute_api": 1,
+      "samples": 9,
+      "score": 689495,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro K4000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 8,
+      "score": 30922,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro M1000M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 8,
+      "score": 46472,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 650",
+      "description": "",
+      "compute_api": 1,
+      "samples": 8,
+      "score": 19909,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 860M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 8,
+      "score": 47466,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro M1200",
+      "description": "",
+      "compute_api": 1,
+      "samples": 8,
+      "score": 51610,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1080 with Max-Q Design",
+      "description": "",
+      "compute_api": 1,
+      "samples": 8,
+      "score": 188245,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce 940M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 7,
+      "score": 24561,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 870M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 7,
+      "score": 54487,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro K1200",
+      "description": "",
+      "compute_api": 1,
+      "samples": 7,
+      "score": 43489,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 570",
+      "description": "",
+      "compute_api": 1,
+      "samples": 7,
+      "score": 66224,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 580",
+      "description": "",
+      "compute_api": 1,
+      "samples": 7,
+      "score": 77167,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GT 740",
+      "description": "",
+      "compute_api": 1,
+      "samples": 7,
+      "score": 21480,
+      "multicore_score": 0
+    },
+    {
+      "name": "Tesla K80",
+      "description": "",
+      "compute_api": 1,
+      "samples": 7,
+      "score": 83227,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro M4000M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 7,
+      "score": 77018,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro K1100M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 6,
+      "score": 12873,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro K2000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 18557,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 770M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 34694,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GT 640",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 18267,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 850M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 41929,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro K2200",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 53666,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce 840M",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 24059,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce 920MX",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 18912,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro M2000",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 57805,
+      "multicore_score": 0
+    },
+    {
+      "name": "GeForce GTX 1060 with Max-Q Design",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 105488,
+      "multicore_score": 0
+    },
+    {
+      "name": "Quadro GV100",
+      "description": "",
+      "compute_api": 1,
+      "samples": 5,
+      "score": 536089,
+      "multicore_score": 0
+    }
+  ]
+}
