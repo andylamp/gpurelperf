@@ -41,7 +41,7 @@ This is a solution to a problem that if you probably have not
  are as follows:
  
     * Python > 3
-    * Nvidia Drivers
+    * Nvidia Drivers (in scope)
  
  Unfortunately, MacOS does not have `nvidia-smi` yet, but a workaround exists 
  which I will probably include in a future update.
@@ -58,9 +58,22 @@ This is a solution to a problem that if you probably have not
 Then, after install completes you can use it as a normal package:
 
 ```python
-import gpurelperf
+from gpurelperf import get_sys_cards
 
 print(get_sys_cards())
+```
+
+## A quick example with mxnet
+
+```python
+import mxnet
+from gpurelperf import get_sys_cards
+
+# returns a tuple with the ratios
+(wl_list, gfx_list) = get_sys_cards()
+
+# then you would set the work load list as such
+work_load_list=wl_list
 ```
 
 # License
@@ -68,5 +81,5 @@ print(get_sys_cards())
 This project is licensed under the terms and conditions of the Apache 2.0 license.
  
  
-[1]: https://mxnet.incubator.apache.org/how_to/multi_devices.html
+[1]: https://mxnet.incubator.apache.org/faq/multi_devices.html
 [2]: https://browser.geekbench.com/cuda-benchmarks

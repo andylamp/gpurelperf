@@ -140,7 +140,7 @@ def filter_nvsmi_output(nvsmi_out):
             min = l_min
             logging.info("\tMatched entry from dictionary: {} for tag: {}".format(l_min, flt_line))
         gpu_ratios.append((flt_line, l_min))
-    # finally calculate the ratios
+        # finally calculate the ratios
         logging.info("Calculating card ratios:")
     for i, (g, v) in enumerate(gpu_ratios):
         gpu_ratios[i] = (g, round(float(v) / float(min), 2))
@@ -191,4 +191,5 @@ if __name__ == '__main__':
     # fetch and parse benchmarks
     logging.basicConfig(level=logging.DEBUG, format="%(asctime)s: %(levelname)s - %(message)s")
     fetch_benchmarks()
-    get_sys_cards()
+    (wl, fs) = get_sys_cards()
+    print(wl)
